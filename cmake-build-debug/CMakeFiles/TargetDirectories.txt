@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+/home/dominik/CLionProjects/space_shooter/space-ship/cmake-build-debug/CMakeFiles/space-ship.dir
+/home/dominik/CLionProjects/space_shooter/space-ship/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dominik/CLionProjects/space_shooter/space-ship/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+/home/dominik/cprojects/space-ship/cmake-build-debug/CMakeFiles/space_ship.dir
+/home/dominik/cprojects/space-ship/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dominik/cprojects/space-ship/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> b523c5694f8ce21ce92f5a1e182d28aa22f7b403

@@ -1,0 +1,26 @@
+# ninja log v5
+<<<<<<< HEAD
+0	19	1680768777686982906	build.ninja	b52276fb75f2a1
+0	20	1680768777686982906	build.ninja	b52276fb75f2a1
+=======
+2	939	1680769339692825751	CMakeFiles/space_ship.dir/Timer.cpp.o	e68f37f2391dd9b3
+1	1076	1680769339828824449	CMakeFiles/space_ship.dir/Game.cpp.o	6059b2d81f07c29
+265	340	1680768982168519179	space_ship	b9ac786625c07ace
+0	18	1680769586290548348	build.ninja	e951d869d23177ad
+993	1669	1680769340424818738	CMakeFiles/space_ship.dir/Framework.cpp.o	30d49715f02deba7
+940	1651	1680769340404818931	CMakeFiles/space_ship.dir/Asteroid.cpp.o	ad66fc84c3c6887f
+1	1195	1680769339948823298	CMakeFiles/space_ship.dir/Player.cpp.o	c23095c2118ad6e8
+2	993	1680769339744825253	CMakeFiles/space_ship.dir/Shot.cpp.o	4ade884cd4b6113d
+2	1281	1680769340036822455	CMakeFiles/space_ship.dir/main.cpp.o	fdc397983bfcdacc
+2	1235	1680769339988822916	CMakeFiles/space_ship.dir/Sprite.cpp.o	948c86812f193d42
+0	20	1680769586290548348	build.ninja	e951d869d23177ad
+3	1071	1680769587370538693	CMakeFiles/space_ship.dir/Framework.cpp.o	1580fb03659a4c2c
+3	1078	1680769587374538658	CMakeFiles/space_ship.dir/main.cpp.o	b1e8f15c5ac8bd1
+3	1162	1680769587458537907	CMakeFiles/space_ship.dir/Sprite.cpp.o	92355375bb43cf14
+2	1258	1680769587554537049	CMakeFiles/space_ship.dir/Shot.cpp.o	7ac3c97450626ac1
+2	1303	1680769587602536620	CMakeFiles/space_ship.dir/Game.cpp.o	ac719ec48f833d49
+2	1319	1680769587618536476	CMakeFiles/space_ship.dir/Player.cpp.o	73c199347d8003f8
+1072	1582	1680769587878534153	CMakeFiles/space_ship.dir/Timer.cpp.o	44c540ef65b090e8
+1078	1823	1680769588122531972	CMakeFiles/space_ship.dir/Asteroid.cpp.o	4ece6cc6a1d436e2
+1823	1952	1680769588246530864	space_ship	3e55e2cfa5d801d6
+>>>>>>> b523c5694f8ce21ce92f5a1e182d28aa22f7b403

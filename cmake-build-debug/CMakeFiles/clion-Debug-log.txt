@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+/snap/clion/233/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/233/bin/ninja/linux/x64/ninja -G Ninja -S /home/dominik/CLionProjects/space_shooter/space-ship -B /home/dominik/CLionProjects/space_shooter/space-ship/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dominik/CLionProjects/space_shooter/space-ship/cmake-build-debug
+=======
+/snap/clion/233/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/233/bin/ninja/linux/x64/ninja -G Ninja -S /home/dominik/cprojects/space-ship -B /home/dominik/cprojects/space-ship/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dominik/cprojects/space-ship/cmake-build-debug
+>>>>>>> b523c5694f8ce21ce92f5a1e182d28aa22f7b403
